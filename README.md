@@ -1,8 +1,22 @@
-# ClipSynth
+---
+title: ClipSynth - AI-Powered Video Creation Platform
+date: 2024-04-15
+tags: ["video", "ai", "content creation"] 
+---
+## Welcome to ClipSynth
 
-This project is based on [OpenSaas](https://opensaas.sh) template and consists of three main dirs:
-1. `app` - Your web app, built with [Wasp](https://wasp-lang.dev).
-2. `e2e-tests` - [Playwright](https://playwright.dev/) tests for your Wasp web app.
-3. `blog` - Your blog / docs, built with [Astro](https://docs.astro.build) based on [Starlight](https://starlight.astro.build/) template.
+![ClipSynth Logo](https://example.com/clipsynth-logo.png)
 
-For more details, check READMEs of each respective directory!
+ClipSynth is an AI-powered platform that revolutionizes video creation and editing. With our cutting-edge technology, you can generate professional-quality videos in just one click, saving time and boosting your content production.
+
+### Key Features:
+
+- One-click video generation
+- Vast library of copyright-free assets
+- Advanced text-to-speech technology
+- Browser-based editing tools
+- Support for multiple video formats (TikTok, Instagram, etc.)
+
+Whether you're a marketer, content creator, or business owner, ClipSynth is designed to streamline your video production process and increase engagement across all your platforms.
+
+[Get Started](#) [Learn More](#)
