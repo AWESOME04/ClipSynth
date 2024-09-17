@@ -1,11 +1,9 @@
 ---
 title: ClipSynth - AI-Powered Video Creation Platform
-date: 2024-04-15
 tags: ["video", "ai", "content creation"] 
 ---
 ## Welcome to ClipSynth
 
-![ClipSynth Logo](https://example.com/clipsynth-logo.png)
 
 ClipSynth is an AI-powered platform that revolutionizes video creation and editing. With our cutting-edge technology, you can generate professional-quality videos in just one click, saving time and boosting your content production.
 
